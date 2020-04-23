@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use digital_cep\DigitalCep\Src\Search;
+use Src\Main\Search;
 
 class SearchTest extends TestCase
 {

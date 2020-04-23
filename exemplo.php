@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-use digital_cep\DigitalCep\Src\Search;
+use Src\Main\Search;
 
 $busca = new Search();
 
